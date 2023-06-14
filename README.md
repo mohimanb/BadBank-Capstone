@@ -1,2 +1,2 @@
-# BadBank-Capstone
-Final Capstone Submission - Bad Bank Application
+# >>> THE BAD BANK <<<
+# MITCapstoneProject
