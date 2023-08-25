@@ -1,6 +1,6 @@
-# BadBank Application
+# "BadBank" Application
 
-BadBank is a modern banking application developed as a project for MIT. It showcases a sleek and responsive design, providing users with an intuitive banking experience.
+BadBank is a modern banking application that has poor security as a practice project developed as student coursework for MIT. It showcases a sleek and responsive design, providing users with an intuitive imitation demonstration of a banking experience.
 
 [BadBank Landing Module(bank.png)]: #
 
