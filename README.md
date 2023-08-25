@@ -2,7 +2,7 @@
 
 BadBank is a modern banking application developed as a project for MIT. It showcases a sleek and responsive design, providing users with an intuitive banking experience.
 
-![BadBank Landing Module](bank.png)
+[BadBank Landing Module(bank.png)]: #
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ Follow these steps to set up and run the BadBank application:
 Contributions are welcome!
 
 ## License
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 
 _________________
