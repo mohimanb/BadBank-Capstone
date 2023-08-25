@@ -56,5 +56,4 @@ This project is licensed under the ISC License.
 
 
 _________________
-~Developed with ❤️ as a project for MIT.~
-
+<sub>Developed with ❤️ as a project for MIT.</sub> 
